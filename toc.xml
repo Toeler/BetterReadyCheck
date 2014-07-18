@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Addon Author="Toez" APIVersion="9" Name="BetterReadyCheck" Description="Enhancements to the default Ready Check functionality">
+    <!-- Libraries -->
+    <Script Name="GeminiAddon\GeminiAddon.lua"/>
+    <Script Name="GeminiHook\GeminiHook-1.0.lua"/>
+    <Script Name="BetterReadyCheck.lua"/>
+    <Form Name="BetterReadyCheck.xml"/>
+    <Form Name="Options.xml"/>
+</Addon>

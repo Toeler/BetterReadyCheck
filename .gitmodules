@@ -1,0 +1,6 @@
+[submodule "GeminiAddon"]
+	path = GeminiAddon
+	url = git://github.com/wildstarnasa/GeminiAddon.git
+[submodule "GeminiHook"]
+	path = GeminiHook
+	url = git://github.com/wildstarnasa/GeminiHook.git
